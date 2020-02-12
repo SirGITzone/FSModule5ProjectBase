@@ -1,0 +1,5 @@
+/static/
+/staticfiles/
+/.idea/
+/.vscode/
+/venv/
